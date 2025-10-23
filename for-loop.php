@@ -30,7 +30,7 @@
         }
     ?>
 
-      <h2>Number count down</h2>
+    <h2>Number count down</h2>
     <form action="for-loop.php" method="post">
         <label>Enter a number to count down:</label><br>
         <input type="text" name="counter"><br>
