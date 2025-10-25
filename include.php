@@ -11,7 +11,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Include Fucntion</title>
+    <title>Home | Include Fucntion</title>
 </head>
 <body>
     <p>Welcome to my awesome new site!</p><br>
