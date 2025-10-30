@@ -1,5 +1,12 @@
 <?php
     include("database.php");
+
+    $sql = "INSERT INTO users (user, password)
+            VALUES ('Spongebob', 'pineapple1')";
+        
+    sqli_query($connection, $sql);
+
+    sqli_close($connection);
 ?>
 <!DOCTYPE html>
 <html lang="en">
